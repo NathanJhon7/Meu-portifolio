@@ -1,18 +1,18 @@
-# 🗂️ Portfólio Pessoal — Nathan Jhon De Lima Amorim
+# Portfólio Pessoal — Nathan Jhon De Lima Amorim
 
-🌐 **Site publicado:** [nathanjhon.vercel.app](https://nathanjhon.vercel.app)
+**Site publicado:** [nathanjhon.vercel.app](https://nathanjhon.vercel.app)
 
 ---
 
-## 📋 Sobre o projeto
+## Sobre o projeto
 
-Portfólio pessoal desenvolvido com **HTML e CSS puros**, sem frameworks ou bibliotecas JavaScript externas. O objetivo é apresentar minha trajetória, habilidades e projetos de forma clara e profissional.
+Portfólio pessoal desenvolvido com HTML e CSS puros, sem frameworks ou bibliotecas externas. O objetivo é apresentar minha trajetória, habilidades e projetos de forma clara e profissional.
 
 Projeto criado para a disciplina de **Desenvolvimento Web**.
 
 ---
 
-## 📁 Estrutura de arquivos
+## Estrutura de arquivos
 
 ```
 meu-portfolio/
@@ -24,7 +24,7 @@ meu-portfolio/
 
 ---
 
-## ✅ Seções do portfólio
+## Seções do portfólio
 
 - **Apresentação** — nome, foto e frase de apresentação
 - **Sobre mim** — formação, foco e motivação
@@ -34,37 +34,32 @@ meu-portfolio/
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
-- CSS3 (Flexbox, Grid, Media Queries, Animações)
+- CSS3 — Flexbox, Grid, Media Queries e Animações
 - Google Fonts — DM Sans, DM Serif Display, DM Mono
 - Font Awesome — ícones
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
-O site é totalmente responsivo, adaptando o layout para dispositivos móveis e desktop com o uso de **unidades relativas** e **media queries**.
-
----
-
-## 🚀 Como rodar localmente
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/NathanJhon7/meu-portfolio.git
-```
-
-2. Abra o arquivo `index.html` no navegador.
-
-Não é necessário instalar nada.
+O site adapta o layout para dispositivos móveis e desktop com o uso de unidades relativas e media queries.
 
 ---
 
-## 👤 Autor
+## Como visualizar
+
+Acesse o site publicado diretamente pelo navegador:
+
+[https://nathanjhon.vercel.app](https://nathanjhon.vercel.app)
+
+---
+
+## Autor
 
 **Nathan Jhon De Lima Amorim**  
-📧 nathanjhondelima31@gmail.com  
-🔗 [github.com/NathanJhon7](https://github.com/NathanJhon7)  
-💼 [linkedin.com/in/nathan-jhon-41b4a134a](https://www.linkedin.com/in/nathan-jhon-41b4a134a/)
+nathanjhondelima31@gmail.com  
+[github.com/NathanJhon7](https://github.com/NathanJhon7)  
+[linkedin.com/in/nathan-jhon-41b4a134a](https://www.linkedin.com/in/nathan-jhon-41b4a134a/)
