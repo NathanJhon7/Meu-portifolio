@@ -1,6 +1,4 @@
-# Portfólio Pessoal — Nathan Jhon De Lima Amorim
-
-**Site publicado:** [nathanjhon.vercel.app](https://nathanjhon.vercel.app)
+# Portfólio Pessoal
 
 ---
 
