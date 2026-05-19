@@ -5,13 +5,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Nathan Jhon — Portfólio</title>
 
- # fontes
+  <!-- Fontes -->
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet" />
 
-# Ícones
+  <!-- Ícones -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 
-# Estilos
+  <!-- Estilos -->
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
+  <!-- ── NAVEGAÇÃO ── -->
+  <nav>
+    <a class="nav-logo" href="#home">NJ<span class="nav-logo-muted">_dev</span></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#habilidades">Habilidades</a></li>
+      <li><a href="#projetos">Projetos</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="Abrir menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </nav>
+
+  <!-- ── HERO / APRESENTAÇÃO ── -->
+  <div id="home">
+    <div class="hero-inner">
+      <div class="hero-avatar">NJ</div>
+      <p class="hero-tag">// back-end developer</p>
+      <h1 class="hero-name">
+        Nathan Jhon<br />
+        <em>De Lima Amorim</em>
+      </h1>
+      <p class="hero-desc">
+        Estudante de Tecnologia da Informação focado no desenvolvimento
+        back-end — construindo lógica sólida por trás de cada aplicação.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#projetos">
+          <i class="fa-solid fa-folder-open"></i> Ver projetos
+        </a>
+        <a class="btn btn-ghost" href="#contato">
+          <i class="fa-solid fa-paper-plane"></i> Entrar em contato
+        </a>
+      </div>
+    </div>
+  </div>
